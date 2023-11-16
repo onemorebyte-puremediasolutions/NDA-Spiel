@@ -1,0 +1,11 @@
+Steuerung:
+
+Der Charakter wird mit den Pfeiltasten bewegt.
+
+Regeln:
+
+Bis zum Coin am Ende innerhalb der Zeit (außer in Einfach, da gibt es kein Zeitlimit) gelangen.
+
+Laufe nicht gegen Wände, da du sonst zum Start teleportiert wirst.
+
+Je höher die Schwierigkeit, desto mehr Punkte erhältst du.
